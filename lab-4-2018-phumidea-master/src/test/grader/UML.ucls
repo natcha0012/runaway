@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
   realizations="true" associations="false" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="B2S.B2Splus" project="Lab4_2018_Student" 
-    file="/Lab4_2018_Student/src/B2S/B2Splus.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="1" language="java" name="B2S.B2Splus" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/B2Splus.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="427" y="258"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -10,8 +10,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="B2S.Item" project="Lab4_2018_Student" file="/Lab4_2018_Student/src/B2S/Item.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="B2S.Item" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Item.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="669" y="248"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="B2S.Game" project="Lab4_2018_Student" file="/Lab4_2018_Student/src/B2S/Game.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="B2S.Game" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Game.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="678" y="908"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -28,8 +28,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="4" language="java" name="B2S.Rentable" project="Lab4_2018_Student" 
-    file="/Lab4_2018_Student/src/B2S/Rentable.java" binary="false" corner="BOTTOM_RIGHT">    
+  <interface id="4" language="java" name="B2S.Rentable" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Rentable.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="541" y="1252"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -37,8 +37,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
-  <class id="5" language="java" name="B2S.Book" project="Lab4_2018_Student" file="/Lab4_2018_Student/src/B2S/Book.java" 
-    binary="false" corner="BOTTOM_RIGHT">    
+  <class id="5" language="java" name="B2S.Book" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Book.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="454" y="818"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -46,8 +46,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="B2S.Inventory" project="Lab4_2018_Student" 
-    file="/Lab4_2018_Student/src/B2S/Inventory.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="6" language="java" name="B2S.Inventory" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Inventory.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="921" y="348"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -55,8 +55,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="B2S.Stationary" project="Lab4_2018_Student" 
-    file="/Lab4_2018_Student/src/B2S/Stationary.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="7" language="java" name="B2S.Stationary" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Stationary.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="900" y="809"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -64,8 +64,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="8" language="java" name="B2S.Saleable" project="Lab4_2018_Student" 
-    file="/Lab4_2018_Student/src/B2S/Saleable.java" binary="false" corner="BOTTOM_RIGHT">    
+  <interface id="8" language="java" name="B2S.Saleable" project="2110215_Lab4_2018_6030462921_Phum" 
+    file="/2110215_Lab4_2018_6030462921_Phum/src/B2S/Saleable.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="763" y="1243"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
